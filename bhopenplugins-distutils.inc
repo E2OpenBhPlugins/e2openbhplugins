@@ -1,4 +1,4 @@
-require openplugins.inc
+require bhopenplugins.inc
 
 inherit distutils
 
