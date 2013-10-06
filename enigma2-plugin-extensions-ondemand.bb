@@ -1,7 +1,7 @@
 MODULE = "OnDemand"
 DESCRIPTION = "On Demand"
 
-RDEPENDS_${PN} = "python-html python-lxml python-dnspython python-beautifulsoup python-simplejson"
+RDEPENDS_${PN} = "python-coherence python-html python-lxml python-dnspython python-beautifulsoup python-simplejson"
 
 SRCREV = ""
 
